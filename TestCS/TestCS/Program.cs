@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TestCS {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Hallo Welt");
+            Console.WriteLine("Das hat mir gar nicht gefallen mit dem Hallo Welt was soll das!!");
         }
     }
 }
